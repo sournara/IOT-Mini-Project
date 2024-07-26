@@ -1,0 +1,12 @@
+../Core/Src/main.c:97:5:main	4
+../Core/Src/main.c:182:6:SystemClock_Config	3
+../Core/Src/main.c:224:13:MX_I2C1_Init	2
+../Core/Src/main.c:258:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:291:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:324:13:MX_GPIO_Init	1
+../Core/Src/main.c:367:6:MX_GPIO_LED_ON	1
+../Core/Src/main.c:371:6:MX_GPIO_LED_OFF	1
+../Core/Src/main.c:375:6:bluetooth_Event	7
+../Core/Src/main.c:435:1:__io_putchar	1
+../Core/Src/main.c:443:6:HAL_UART_RxCpltCallback	7
+../Core/Src/main.c:484:6:Error_Handler	1
